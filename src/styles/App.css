@@ -1,0 +1,14 @@
+/* src/styles/App.css */
+.app {
+    text-align: center;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #1a1a1a 0%, #4a4a4a 100%);
+    padding: 20px;
+    color: #fff;
+  }
+  
+  .app h1 {
+    color: #ffd700;
+    text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+    margin-bottom: 30px;
+  }
